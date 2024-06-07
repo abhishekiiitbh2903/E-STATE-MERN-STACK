@@ -37,8 +37,8 @@ With the integration of cutting-edge technologies, including Google authenticati
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/mern-stack-real-estate.git
-   cd mern-stack-real-estate
+   https://github.com/abhishekiiitbh2903/E-STATE-MERN-STACK.git
+   cd E-STATE-MERN-STACK
    ```
 
 2. **Install dependencies for both frontend and backend:**
@@ -54,28 +54,32 @@ With the integration of cutting-edge technologies, including Google authenticati
 
 3. **Set up environment variables:**
 
-   Create a `.env` file in the `backend` directory and add the following:
+   Create a `.env` file in the `root` directory and add the following:
 
    ```plaintext
    MONGO=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
+   ```
+   Create a `.env` file in the `client` directory and add the following:
+
+   ```plaintext
+   FIREBASE=your_firebase_api_key
    ```
 
 4. **Run the application:**
 
    ```bash
    # Start the backend server
-   cd backend
-   npm start
+   npm run dev
 
    # Start the frontend development server
-   cd ../frontend
-   npm start
+   cd ../client
+   npm run dev
    ```
 
 5. **Access the application:**
 
-   Open your browser and go to `http://localhost:3000` to start using the MERN Stack Real Estate application.
+   Open your browser and go to `http://127.0.0.1/5173` to start using the MERN Stack Real Estate application.
 
 ## Contributing
 
