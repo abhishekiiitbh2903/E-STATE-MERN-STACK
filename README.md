@@ -88,4 +88,8 @@ I am open to any genuine pull request .Let's see what we can change ...
 
 For any questions or issues, please open an issue on the GitHub repository or contact us directly.
 
+## Author
+Abhishek Singh (IIITBH CSE UNDERGRAD)
+abhishekrathore1806@gmail.com
+
 Happy property hunting and selling!
